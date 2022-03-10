@@ -1,3 +1,3 @@
 [submodule "blockly2scafi"]
 	path = blockly2scafi
-	url = git@github.com:alemazzo/blockly2scafi.git
+	url = https://github.com/alemazzo/blockly2scafi.git
